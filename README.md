@@ -1,4 +1,4 @@
-# Hi there, I'm Andriyas - a.k.a [Muhamamd Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 👋
+# Hi👋, I'm Andriyas - a.k.a [Muhamamd Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 
 ## About me:
 - 🔭 I’m currently a Statistics Student at Padjadjaran University
 - 🌱 I’m currently learning Front-End and Back-End
