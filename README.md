@@ -1,4 +1,4 @@
-# Hi👋, I'm Andriyas - a.k.a [Muhamamd Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 
+# Hi👋, I'm Andriyas - a.k.a [Muhammad Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 
 ## About me:
 - 🔭 I’m currently a Statistics Student at Padjadjaran University
 - 🌱 I’m currently learning Front-End and Back-End
@@ -6,15 +6,17 @@
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: kurokoandriyas@gmail.com
+- 🤠 This is my [personal website](https://mamm.netlify.app), which contains some of my portfolios
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [SMA Negeri 1 Cilegon](https://sman1cilegon.sch.id/) | MIPA | Cilegon `2019-2022`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+ #### 2. [Universitas Padjadjaran](https://www.unpad.ac.id/) | Statistics | Jatinangor `2022-Now`
+   - Media and Information of Forum Kajian Statistik `Jan 2023-Des 2023`
+   - 
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
