@@ -27,7 +27,7 @@
 
 ## Project
 #### 1. Spatial Analysis
-   - Dashboard Web Spatial Analysis with R
+   Dashboard Web Spatial Analysis with R
    - [Websites](https://spatialanalysis.netlify.app/)
    - [Portfolio](https://github.com/LouuRey/Web-Dashboard-Spatial-Analysis-with-R-Shiny/blob/main/README.md)
 
