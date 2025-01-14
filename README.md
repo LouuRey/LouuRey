@@ -48,17 +48,9 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" style="padding-right:10px;" />](https://www.linkedin.com)
+[<img align="left" alt="WhatsApp" title="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/WhatsApp.svg" style="padding-right:10px;" />](https://wa.me)
+[<img align="left" alt="Instagram" title="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" style="padding-right:10px;" />](https://www.instagram.com)
 
 
 
