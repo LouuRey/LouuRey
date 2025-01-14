@@ -9,7 +9,6 @@
 - 🤠 This is my [personal website](https://mamm.netlify.app), which contains some of my portfolios
 
 ## Education:
-
 #### 1. [SMA Negeri 1 Cilegon](https://sman1cilegon.sch.id/) | MIPA | Cilegon `2019-2022`
    - GPA 87/100
 #### 2. [Universitas Padjadjaran](https://www.unpad.ac.id/) | Statistics | Jatinangor `2022-Now`
@@ -25,6 +24,13 @@
    - creating Islamic podcasts,
    - documentation, and
    - designing social media content
+
+## Project
+#### 1. Spatial Analysis
+   - Dashboard Web Spatial Analysis with R
+   - [Websites](https://spatialanalysis.netlify.app/)
+   - [Portfolio]()
+
 ---
 
 ### Languages and Tools:
