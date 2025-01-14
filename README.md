@@ -30,10 +30,15 @@
 Dashboard Web Spatial Analysis with R, Geographically Weighted Regression Model, Spatial Error Model, Spatial LagX  Model, Spatial Autoregressive, Spatial Durbin Model, Spatial Durbin Error Model, Spatial Autoregressive Combined, and General Nesting Spatial Model.
    - [Websites](https://spatialanalysis.netlify.app/)
    - [Portfolio](https://github.com/LouuRey/Web-Dashboard-Spatial-Analysis-with-R-Shiny/blob/main/README.md)
+   - [File](https://drive.google.com/drive/u/0/folders/1MewJiVDaIcXebkTh1cwrIZ-96936VVus)
 
 #### 2. Data Image Analysis
 Classification Deep Learning with Python, "Deep Learning for Multi-Class Classification of Eye Diseases: A Comparative Analysis Using EfficientNetB0 and ResidualNet50"
    - [Portfolio](https://medium.com/@kurokoandriyas/deep-learning-for-multi-class-classification-of-eye-diseases-a-comparative-analysis-using-fdf64ca71178)
+   - [File](https://drive.google.com/drive/folders/1zMJbzHCUl3DIXQEtaPaTzjG_PUckJV3s)
+     
+#### 3. Machine Larning
+Clustering analysis with R. "Unlocking the Future of Work in Indonesia: Clustering Decent Work Patterns for Sustainable Development"
 
 
 ---
