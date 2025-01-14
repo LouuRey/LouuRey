@@ -37,8 +37,34 @@ Classification Deep Learning with Python, "Deep Learning for Multi-Class Classif
    - [Portfolio](https://medium.com/@kurokoandriyas/deep-learning-for-multi-class-classification-of-eye-diseases-a-comparative-analysis-using-fdf64ca71178)
    - [File](https://drive.google.com/drive/folders/1zMJbzHCUl3DIXQEtaPaTzjG_PUckJV3s)
      
-#### 3. Machine Larning
-Clustering analysis with R. "Unlocking the Future of Work in Indonesia: Clustering Decent Work Patterns for Sustainable Development"
+#### 3. Personal Website
+Building personal website using HTML, CSS, and JavaScript. Hosting website with Netlify.
+   - [Website](https://mamm.netlify.app)
+   - [File](https://github.com/LouuRey/web/tree/main)
+
+#### 4. Machine Learnings (Not Yet)
+Building personal website using HTML, CSS, and JavaScript. Hosting website with Netlify.
+   - [Website](https://mamm.netlify.app)
+   - [File](https://github.com/LouuRey/web/tree/main)
+
+#### 5. BioInformatic (NotYet)
+Building personal website using HTML, CSS, and JavaScript. Hosting website with Netlify.
+   - [Website](https://mamm.netlify.app)
+   - [File](https://github.com/LouuRey/web/tree/main)
+
+#### 6. Database with MySQL and PHP
+Database with MySQL and PHP. "Pembuatan KRS".
+   - [Portfolio](https://drive.google.com/drive/folders/1_keoOjJPMQKn8i8ru9DQyQrNvXnMXCqG)
+   - [File](https://drive.google.com/drive/folders/1kc__TPIPdellJfWGYPTDk2zB7YqBQYoU)
+
+#### 7. Website (UnderProcess)
+Building dinamic website using PHP and MySQL. Hosting with InfinityFree.
+   - [Website](http://intersectaweb.wuaze.com/)
+   - [File] NOTYET
+
+#### 8. Regression Analysis
+Publishing paper about "Negative binomial regression analysis of stunting determinants in toddlers: achieving optimal nutrition in West Java, Indonesia."
+   - [Website](https://scik.org/index.php/cmbn/article/view/8929)
 
 
 ---
@@ -58,10 +84,10 @@ Clustering analysis with R. "Unlocking the Future of Work in Indonesia: Clusteri
 
 ---
 ### Connect with me:
-[<img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com)
-[<img align="left" alt="WhatsApp" title="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" style="padding-right:10px;" />](https://wa.me)
-[<img align="left" alt="Instagram" title="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com)
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/)
+[<img align="left" alt="WhatsApp" title="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" style="padding-right:10px;" />](https://wa.me/6283893121792)
+[<img align="left" alt="Instagram" title="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/andriyasmm/)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/LouuRey/LouuRey
