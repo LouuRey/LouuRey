@@ -1,4 +1,4 @@
-# Hi👋, I'm Andriyas - a.k.a [Muhammad Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 
+# Hi👋, I'm LouuRey - a.k.a [Muhammad Andriyas Musa Munthalib](https://www.linkedin.com/in/m-andriyas-musa-m-745198253/) 
 ## About me:
 - 🔭 I’m currently a Statistics Student at Padjadjaran University
 - 🌱 I’m currently learning Front-End and Back-End
@@ -30,6 +30,11 @@
 Dashboard Web Spatial Analysis with R, Geographically Weighted Regression Model, Spatial Error Model, Spatial LagX  Model, Spatial Autoregressive, Spatial Durbin Model, Spatial Durbin Error Model, Spatial Autoregressive Combined, and General Nesting Spatial Model.
    - [Websites](https://spatialanalysis.netlify.app/)
    - [Portfolio](https://github.com/LouuRey/Web-Dashboard-Spatial-Analysis-with-R-Shiny/blob/main/README.md)
+
+#### 2. Data Image Analysis
+Classification Deep Learning with Python, "Deep Learning for Multi-Class Classification of Eye Diseases: A Comparative Analysis Using EfficientNetB0 and ResidualNet50"
+   - [Portfolio](https://medium.com/@kurokoandriyas/deep-learning-for-multi-class-classification-of-eye-diseases-a-comparative-analysis-using-fdf64ca71178)
+
 
 ---
 
