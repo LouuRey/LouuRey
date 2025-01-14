@@ -27,8 +27,7 @@
 
 ## Project
 #### 1. Spatial Analysis
-      Dashboard Web Spatial Analysis with R, Geographically Weighted Regression Model, Spatial Error Model, Spatial LagX  Model, Spatial Autoregressive,
-      Spatial Durbin Model, Spatial Durbin Error Model, Spatial Autoregressive Combined, and General Nesting Spatial Model.
+Dashboard Web Spatial Analysis with R, Geographically Weighted Regression Model, Spatial Error Model, Spatial LagX  Model, Spatial Autoregressive, Spatial Durbin Model, Spatial Durbin Error Model, Spatial Autoregressive Combined, and General Nesting Spatial Model.
    - [Websites](https://spatialanalysis.netlify.app/)
    - [Portfolio](https://github.com/LouuRey/Web-Dashboard-Spatial-Analysis-with-R-Shiny/blob/main/README.md)
 
