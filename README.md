@@ -42,27 +42,12 @@ Building personal website using HTML, CSS, and JavaScript. Hosting website with 
    - [Website](https://mamm.netlify.app)
    - [File](https://github.com/LouuRey/web/tree/main)
 
-#### 4. Machine Learnings (Not Yet)
-Building personal website using HTML, CSS, and JavaScript. Hosting website with Netlify.
-   - [Website](https://mamm.netlify.app)
-   - [File](https://github.com/LouuRey/web/tree/main)
-
-#### 5. BioInformatic (NotYet)
-Building personal website using HTML, CSS, and JavaScript. Hosting website with Netlify.
-   - [Website](https://mamm.netlify.app)
-   - [File](https://github.com/LouuRey/web/tree/main)
-
-#### 6. Database with MySQL and PHP
+#### 4. Database with MySQL and PHP
 Database with MySQL and PHP. "Pembuatan KRS".
    - [Portfolio](https://drive.google.com/drive/folders/1_keoOjJPMQKn8i8ru9DQyQrNvXnMXCqG)
    - [File](https://drive.google.com/drive/folders/1kc__TPIPdellJfWGYPTDk2zB7YqBQYoU)
 
-#### 7. Website (UnderProcess)
-Building dinamic website using PHP and MySQL. Hosting with InfinityFree.
-   - [Website](http://intersectaweb.wuaze.com/)
-   - [File] NOTYET
-
-#### 8. Regression Analysis
+#### 5. Regression Analysis
 Publishing paper about "Negative binomial regression analysis of stunting determinants in toddlers: achieving optimal nutrition in West Java, Indonesia."
    - [Website](https://scik.org/index.php/cmbn/article/view/8929)
 
